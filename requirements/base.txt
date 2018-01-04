@@ -1,0 +1,24 @@
+Django==1.10
+Pillow==4.2.1
+djangorestframework==3.7.1
+django-cors-headers==2.1.0
+celery-with-redis==3.0
+django-celery==3.2.2
+
+sorl-thumbnail==12.3
+django-mptt==0.8.7
+django-mail-templated==2.6.5
+django-simple-captcha==0.5.5
+social-auth-app-django==2.0.0
+openpyxl==2.4.9
+django-import-export==0.6.1
+xhtml2pdf==0.2b1
+
+
+#SQL server
+django-pyodbc-azure==1.10.0.1
+
+#ORACLE
+#cx-Oracle==5.2.1 # se necesita tener oracle client
+#
+
